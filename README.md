@@ -1,7 +1,3 @@
-<a href="https://chromedino.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
-    <img alt="https://wouterds.com" src="./dino.gif" />
-  </picture>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=wouterds&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wouterds&layout=compact)
